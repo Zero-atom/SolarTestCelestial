@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SolarTest.CelestialObject">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAgAAACAAQCAQBAAAACACBAAAEAAKCAQA=</HashCode>
+      <FileName>SolarSytem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolarTest.GasPlanet">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAggAAAAAAAAAAgAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>GasPlanet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolarTest.Star">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAgAAAAAAAAAAAgAAEAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Star.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolarTest.SmallBody">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAgAAAAAAAAAAAEABAA=</HashCode>
+      <FileName>SmallBodies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolarTest.Asteroid">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Asteroids.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolarTest.TerrastrialPlanet">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAggAAAAAAAAAAgAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>TerrastrialPlanets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolarTest.SolarPlanet">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAQAAAAAgAAQAAAAAABAgAAAAAAAAAAAACCAQA=</HashCode>
+      <FileName>SolarPlanet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SolarTest.Comet">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SolarTest.IDetect">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDetect.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SolarTest.IDetect1">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDetect1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
